@@ -1,0 +1,12 @@
+body { background-color: black;
+    color: blueviolet;
+font-family: Arial, Helvetica, sans-serif;}
+
+ul { display: flex;
+justify-content: space-between;
+list-style-type: none;
+align-items: center;
+padding: 16px;
+}
+
+h1 { position: absolute;}
